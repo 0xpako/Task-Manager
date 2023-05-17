@@ -1,3 +1,9 @@
+# To Do
+1. Make the "Edit" Button Work
+
+I'm open to accept pull requests :)
+
+---
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
