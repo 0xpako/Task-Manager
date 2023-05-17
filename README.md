@@ -1,5 +1,5 @@
 # To Do
-1. Make the "Edit" Button Work
+Make the "Edit" Button Work
 
 I'm open to accept pull requests :)
 
